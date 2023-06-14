@@ -1,0 +1,59 @@
+.tit {color: #33a72f;}
+
+.inicio {
+    color: #02060c;
+    border: 1px solid #02060c;
+
+    padding: 10px;
+
+    background-color: #11b949;
+
+}
+
+.baby {
+    color: #02060c;
+    border: 1px solid #02060c;
+
+    padding: 10px;
+    background-color: #11b949;
+}
+
+.futsal {
+    color: #02060c;
+    border: 1px solid #02060c;
+
+    padding: 10px;
+
+    background-color: #11b949;
+
+}
+
+.contacto {
+    color: #02060c;
+    border: 1px solid #02060c;
+
+    padding: 10px;
+
+    background-color: #11b949;
+}
+
+.Shop {
+    color: #02060c;
+    border: 1px solid #02060c;
+
+    padding: 10px;
+
+    background-color: #11b949;
+
+}
+
+
+
+.contenedor {
+    width: 60%;
+
+}
+
+#parrafoImportante {color: #33a72f;}
+
+
